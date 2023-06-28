@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5da31d-1e74-48b8-8b6e-bbe6b6a308dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/DispositivoDeArmazenamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/Hd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/Nuvem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/PenDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inversao_de_dependenccia/ProcessadorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/ImpressoraMultiFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/ImpressoraSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/MaquinaDeFax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Scanner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
