@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb5da31d-1e74-48b8-8b6e-bbe6b6a308dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Impressora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/ImpressoraMultiFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/ImpressoraSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/MaquinaDeFax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segregacao_por_interface/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskov/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskov/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskov/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskov/Veiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="liskov" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
